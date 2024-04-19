@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main_purple">#6157DE</color>
+    <color name="rv_fillColor">#F5F5F5</color>
+    <color name="rv_rectangle_stroke">#685CF0</color>
+    <color name="gray">#979797</color>
+    <color name="edt_bg">#F2F2F2</color>
+    <color name="tv_doc">#4E4E4E</color>
+
+</resources>
